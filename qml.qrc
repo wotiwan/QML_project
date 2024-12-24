@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/catalog1.png</file>
+        <file>Reserve.qml</file>
+        <file>Homepage.qml</file>
+        <file>Reserve_btns.qml</file>
+        <file>Catalog.qml</file>
+        <file>homepage_reserve.qml</file>
+        <file>Basket.qml</file>
+        <file>Categories.qml</file>
+        <file>Profile_page.qml</file>
+        <file>Product.qml</file>
+        <file>Login.qml</file>
+    </qresource>
+</RCC>
